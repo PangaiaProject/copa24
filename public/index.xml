@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PhD school on Evolution in Computational Pangenomics on COPA 2024</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in PhD school on Evolution in Computational Pangenomics on COPA 2024</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dan Gusfield</title>
+      <link>http://localhost:1313/speakers/dan-gusflied/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/speakers/dan-gusflied/</guid>
+      <description>Dr. Gusfield&amp;rsquo;s primary interests involve the efficiency of algorithms, particularly for problems in combinatorial optimization and graph theory. These algorithms have been applied to study data security, stable matching, network flow, matroid optimization, string/pattern matching problems, molecular sequence analysis and optimization problems in population-scale genomics.&#xA;Currently, he is focused on string and combinatorial problems that arise in computational biology and bioinformatics.&#xA;Dr. Gusfield served as chair of the computer science department at UC Davis from July 2000 until August 2004, and was the founding Editor-in-Chief of The IEEE/ACM Transactions of Computational Biology and Bioinformatics until January 2009.</description>
+    </item>
+    <item>
+      <title>Location</title>
+      <link>http://localhost:1313/pages/location/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pages/location/</guid>
+      <description>How to get to the conference&#xA;Conference venue&#xA;Lake Como School of Advanced Studies&#xA;View Larger Map </description>
+    </item>
+    <item>
+      <title>Program</title>
+      <link>http://localhost:1313/pages/program/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pages/program/</guid>
+      <description> Sunday Monday Tuesday Wednesday Thursday 9:00-10:30 Lecture Lecture Lecture Lecture 10:30-11:00 Cofee break 11:00-12:30 Lecture Lecture Lecture Lecture 12:30-14:00 Lunch break 14:00-15:30 Lecture Lecture Social excursion Lecture 15:30-16:00 Coffee break&#xA;Coffee break 16:00-17:30 Lecture Lecture Lecture 18:00-20:00 Welcome </description>
+    </item>
+  </channel>
+</rss>

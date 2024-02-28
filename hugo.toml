@@ -1,0 +1,12 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'COPA 2024'
+theme = 'ananke'
+
+
+
+[params]
+    recent_posts_number = 3
+    body_classes = "avenir bg-near-white"
+    custom_css = ["css/custom.css"]
+

@@ -2,7 +2,9 @@
     text-align: left;
     max-width: 60em;
 }
-
+.aside-summary {
+    margin-top: 0rem;
+}
 /* .measure-wide {
     max-width: 50em;
 } */

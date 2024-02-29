@@ -1,5 +1,6 @@
 ---
 featured_image: ""
+summary_image: "/imgs/speakers/imanh.jpg"
 tags: []
 title: 'Iman Hajirasouliha'
 ---

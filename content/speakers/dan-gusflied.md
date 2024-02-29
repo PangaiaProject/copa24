@@ -1,5 +1,6 @@
 ---
 featured_image: ""
+summary_image: "imgs/speakers/gusfield.jpg"
 tags: []
 title: "Dan Gusfield"
 ---

@@ -1,5 +1,6 @@
 ---
 featured_image: ""
+summary_image: "/imgs/speakers/eichler.jpg"
 tags: []
 title: 'Evan Eichler'
 ---

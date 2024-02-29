@@ -36,18 +36,18 @@
       <description>I am an Associate Professor in the Computer Science Department at Carleton College. My research centers around designing algorithms for analysis of high-throughput DNA sequencing data. In particular, my work focuses around applications in cancer genomics.&#xA;Previously, I was a post-doctoral researcher and graduate student in the Computer Science Department at Brown University where I worked with Ben Raphael. I recieved a PhD and ScM in Computer Science from Brown University and a BA in Mathematics from Pomona College.</description>
     </item>
     <item>
-      <title>Location</title>
-      <link>http://localhost:1313/pages/location/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pages/location/</guid>
-      <description>How to get to the conference&#xA;Conference venue&#xA;Lake Como School of Advanced Studies&#xA;View Larger Map </description>
-    </item>
-    <item>
       <title>Program</title>
       <link>http://localhost:1313/pages/program/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/pages/program/</guid>
-      <description> Sunday Monday Tuesday Wednesday Thursday 9:00-10:30 Lecture Lecture Lecture Lecture 10:30-11:00 Coffee break 11:00-12:30 Lecture Lecture Lecture Lecture 12:30-14:00 Lunch break 14:00-15:30 Lecture Lecture Social excursion Lecture 15:30-16:00 Coffee break&#xA;Coffee break 16:00-17:30 Lecture Lecture Lecture 18:00-20:00 Welcome </description>
+      <description> Sunday Monday Tuesday Wednesday Thursday 9:00-10:30 Lecture Lecture Lecture Lecture 10:30-11:00 Coffee 11:00-12:30 Lecture Lecture Lecture Lecture 12:30-14:00 Lunch 14:00-15:30 Lecture Lecture Social excursion Lecture 15:30-16:00 Coffee&#xA;Coffee 16:00-17:30 Lecture Lecture Lecture 18:00-20:00 Welcome </description>
+    </item>
+    <item>
+      <title>Venue</title>
+      <link>http://localhost:1313/pages/venue/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pages/venue/</guid>
+      <description>How to get to the conference&#xA;Conference venue&#xA;Lake Como School of Advanced Studies&#xA;View Larger Map </description>
     </item>
   </channel>
 </rss>

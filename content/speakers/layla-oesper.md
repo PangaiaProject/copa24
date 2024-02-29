@@ -1,5 +1,6 @@
 ---
 featured_image: ""
+summary_image: "imgs/speakers/oesper.jpg"
 tags: []
 title: "Layla Oesper"
 ---

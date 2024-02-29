@@ -3,6 +3,7 @@ featured_image: ""
 summary_image: "imgs/speakers/oesper.jpg"
 tags: []
 title: "Layla Oesper"
+webpage: "https://www.cs.carleton.edu/faculty/loesper/"
 ---
  	
 I am an Associate Professor in the Computer Science Department at Carleton College. My research centers around designing algorithms for analysis of high-throughput DNA sequencing data. In particular, my work focuses around applications in cancer genomics.

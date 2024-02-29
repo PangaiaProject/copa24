@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Speakers on COPA 2024</title>
-    <link>http://localhost:40321/speakers/</link>
+    <link>http://localhost:1313/speakers/</link>
     <description>Recent content in Speakers on COPA 2024</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:40321/speakers/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/speakers/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dan Gusfield</title>
-      <link>http://localhost:40321/speakers/dan-gusflied/</link>
+      <link>http://localhost:1313/speakers/dan-gusflied/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:40321/speakers/dan-gusflied/</guid>
+      <guid>http://localhost:1313/speakers/dan-gusflied/</guid>
       <description>Dr. Gusfield&amp;rsquo;s primary interests involve the efficiency of algorithms, particularly for problems in combinatorial optimization and graph theory. These algorithms have been applied to study data security, stable matching, network flow, matroid optimization, string/pattern matching problems, molecular sequence analysis and optimization problems in population-scale genomics.&#xA;Currently, he is focused on string and combinatorial problems that arise in computational biology and bioinformatics.&#xA;Dr. Gusfield served as chair of the computer science department at UC Davis from July 2000 until August 2004, and was the founding Editor-in-Chief of The IEEE/ACM Transactions of Computational Biology and Bioinformatics until January 2009.</description>
     </item>
     <item>
       <title>Evan Eichler</title>
-      <link>http://localhost:40321/speakers/evan-eichler/</link>
+      <link>http://localhost:1313/speakers/evan-eichler/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:40321/speakers/evan-eichler/</guid>
+      <guid>http://localhost:1313/speakers/evan-eichler/</guid>
       <description>Genomic duplication followed by adaptive mutation is considered one of the primary forces for evolution of new function. Duplicated sequences are also dynamic regions of rapid structural change during the course of chromosome evolution. The long-term goal of my research is to understand the evolution, pathology and mechanism(s) of recent gene duplication and DNA transposition within the human genome. Our work involves the systematic discovery of these regions, the development of methods to assess their variation, the detection of signatures of rapid gene evolution and ultimately the correlation of this genetic variation with phenotypic differences within and between species.</description>
     </item>
     <item>
       <title>Iman Hajirasouliha</title>
-      <link>http://localhost:40321/speakers/iman-hajirasouliha/</link>
+      <link>http://localhost:1313/speakers/iman-hajirasouliha/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:40321/speakers/iman-hajirasouliha/</guid>
+      <guid>http://localhost:1313/speakers/iman-hajirasouliha/</guid>
       <description>We are a computational science oriented group, affiliated with the institute of precision medicine and the institute of computational biomedicine. We are passionate about developing new algorithms and applications of computational methods to genomics.&#xA;More information Website</description>
     </item>
     <item>
       <title>Layla Oesper</title>
-      <link>http://localhost:40321/speakers/layla-oesper/</link>
+      <link>http://localhost:1313/speakers/layla-oesper/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:40321/speakers/layla-oesper/</guid>
+      <guid>http://localhost:1313/speakers/layla-oesper/</guid>
       <description>I am an Associate Professor in the Computer Science Department at Carleton College. My research centers around designing algorithms for analysis of high-throughput DNA sequencing data. In particular, my work focuses around applications in cancer genomics.&#xA;Previously, I was a post-doctoral researcher and graduate student in the Computer Science Department at Brown University where I worked with Ben Raphael. I recieved a PhD and ScM in Computer Science from Brown University and a BA in Mathematics from Pomona College.</description>
     </item>
   </channel>

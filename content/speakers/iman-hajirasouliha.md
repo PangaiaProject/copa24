@@ -3,6 +3,7 @@ featured_image: ""
 summary_image: "/imgs/speakers/imanh.jpg"
 tags: []
 title: 'Iman Hajirasouliha'
+webpage: "https://gradschool.weill.cornell.edu/faculty/iman-hajirasouliha"
 ---
 
 We are a computational science oriented group, affiliated with the institute of precision medicine and the institute of computational biomedicine. 

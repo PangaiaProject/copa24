@@ -26,6 +26,7 @@ In fact, we remind that one of the main goals of the PANGAIA project is to put t
 # Sponsors
 
 [![Pangaia](/imgs/PANGAIA-425.png)](https://pangenome.eu)
+[![Alpaca](/imgs/alpaca116.png)](https://alpaca-itn.eu/)
 
 # School Directors
 

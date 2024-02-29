@@ -3,6 +3,7 @@ featured_image: ""
 summary_image: "imgs/speakers/gusfield.jpg"
 tags: []
 title: "Dan Gusfield"
+webpage: "https://cs.ucdavis.edu/directory/dan-gusfield"
 ---
 
 Dr. Gusfield's primary interests involve the efficiency of algorithms, particularly for problems in combinatorial optimization and graph theory. 

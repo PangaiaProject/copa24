@@ -16,11 +16,19 @@ After the success of the *Introduction to Pan-Genomics* school, this school will
 *  How to analyze a pangenome to identify genetic variants associated with human diseases, distinguishing them from the plethora of neutral variants that arise from “healthy” evolution.
 
 In both cases, we will focus on graph-based frameworks, since one of the main allures of computational pangenomics is to get rid of linear reference genomes and the bias it introduces. 
-In fact, we remind that one of the main goals of the PANGAIA project is to put this shift of paradigm—from sequence- to graph-based representations of genomes —into full effect. 
+In fact, we remind that one of the main goals of the PANGAIA project is to put this shift of paradigm --- from sequence- to graph-based representations of genomes --- into full effect. 
+
+# Application
+
+The number of participants is limited to 25. All interested students
+will have to apply and the school directors will select the
+participants.
+ALPACA students and affiliated will have priority.
 
 # Key dates
 
-*  Registration deadline: May 31st
+*  Application deadline: June 15
+*  Registration deadline: July 15
 *  School dates: September 8-12, 2024
 
 # Sponsors

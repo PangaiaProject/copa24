@@ -2,9 +2,15 @@
     text-align: left;
     max-width: 60em;
 }
+
 .aside-summary {
     margin-top: 0rem;
 }
+
 /* .measure-wide {
     max-width: 50em;
 } */
+
+.bg-black-60 {
+    background-color: rgba(0, 0, 0, .23);
+}

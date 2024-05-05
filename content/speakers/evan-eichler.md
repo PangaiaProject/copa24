@@ -6,7 +6,20 @@ title: 'Evan Eichler'
 webpage: "https://eichlerlab.gs.washington.edu/evan.html"
 ---
 
-Genomic duplication followed by adaptive mutation is considered one of the primary forces for evolution of new function. Duplicated sequences are also dynamic regions of rapid structural change during the course of chromosome evolution. The long-term goal of my research is to understand the evolution, pathology and mechanism(s) of recent gene duplication and DNA transposition within the human genome.  Our work involves the systematic discovery of these regions, the development of methods to assess their variation, the detection of signatures of rapid gene evolution and ultimately the correlation of this genetic variation with phenotypic differences within and between species. 
+Evan Eichler is a Professor of Genome Sciences and Howard Hughes Medical
+Institute Investigator. He received his Ph.D.
+from Baylor College of Medicine. After his postdoctoral fellowship at
+Lawrence Livermore National Laboratory, he joined
+Case Western Reserve University in 1997 and the University of Washington
+in 2004. His research group provided the first
+genome-wide view of segmental duplications within human and primate
+genomes. He is a leader in identifying and
+sequencing normal and disease-causing structural variation in the human
+genome. The long-term goal of his research is to
+understand the evolution and mechanisms of recent gene duplication and
+its relationship to copy number variation and
+human disease with a specific emphasis on the genetic architecture of
+autism and neurodevelopmental delay.
 
 ### More information
 [Website](https://eichlerlab.gs.washington.edu/evan.html)

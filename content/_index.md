@@ -25,6 +25,8 @@ will have to apply and the school directors will select the
 participants.
 ALPACA students and affiliated will have priority.
 
+The application form will be available on June 1st.
+
 # Key dates
 
 *  Application deadline: June 15

@@ -23,3 +23,11 @@ menu:
 | 15:30-16:00 	|         	|         	|         	|           	|          	|
 | 16:00-17:30 	|         	| Lecture 	| Lecture 	|           	| Lecture  	|
 {{</table>}} -->
+
+# Speakers and Topics:
+
+*  _Dan Gusfield_. TBD
+*  _Evan Eichler_. Long-read sequencing and pangenome perspective of structural variation and disease association. 
+*  _Iman Hajirasouliha_. Deep Learning for variant calling and tumor detetcion
+*  _Layla Oesper_. Reconstructing and comparing tumor  phylogenies
+*  _Manuela Sironi_. Molecular evolution and host adaptation of human-infecting herpesviruses. Transposon domestication in mammals

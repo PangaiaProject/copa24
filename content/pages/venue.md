@@ -10,9 +10,9 @@ menu:
 
 ---
 
-[How to get to the conference](https://lakecomoschool.org/travel-info/)
+[How to get to the school](https://lakecomoschool.org/travel-info/)
 
-[Conference venue](https://lakecomoschool.org/location-accommodation/)
+[School venue](https://lakecomoschool.org/location-accommodation/)
 
 [Lake Como School of Advanced Studies](https://lakecomoschool.org/)
 

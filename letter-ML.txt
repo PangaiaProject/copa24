@@ -1,0 +1,57 @@
+We are happy to announce that the PhD school on Evolution in
+Computational Pangenomics will be held at the Lake Como School of
+Advanced Studies, on
+8-12 September 2024.
+
+The school, sponsored by the MSCA-RISE Project PANGAIA (Pan-genome Graph
+Algorithms and Data Integration) and the MSCA-ITN Alpaca, focuses on the
+evolution aspects of Computational Pangenomics, guiding the transition
+from linear genomes to graph-based representations.  The fundamental
+task of capturing genetic variations  largely benefit from graph-based
+pangenome representations: they summarize redundancies without
+discarding individual differences and graphs lend themselves to data
+structures and algorithms for pangenome analysis.
+The main guiding questions driving the school are to determine
+efficiently and accurately how human, tumor, virus, and bacteria
+populations evolve, what are the computational aspects of different
+models of evolution, how to analyze a pangenome to identify genetic
+variants associated with human diseases, distinguishing them from the
+plethora of neutral variants that arise from “healthy” evolution.
+
+This school is an opportunity for interacting with the computational
+pangenomics community of two European Research Networks, ALPACA and
+PANGAIA.  The school provides a forum for being exposed to novel
+approaches on how to push the shift from sequence to graph-based
+representations of genomes.
+
+The expected audience consists of PhD students and young researchers
+that are interested in the new field of computational pangenomics and
+that are eager to learn from world-renowned scientists.
+
+The lecturers that have already confirmed their presence are:
+*    Evan Eichler (Univ. of Washington, USA)
+*    Dan Gusfield (UC Davis, USA)
+*    Iman Hajirasouliha (Weill-Cornell Medicine, USA)
+*    Layla Oesper (Carleton College, USA)
+*    Manuela Sironi (IRCCS Medea, Italy)
+
+The deadline for registering is June 15, and the application must
+include a CV with a letter of intent. Only 25 students will be admitted
+to the school, to guaranteed lively interactions.
+
+The registration fee is 100 euros, lunches and coffee breaks are
+included.
+The registration form, together with other relevant information
+(accommodation, traveling information, mode of payment,
+instructions for students etc.) is available at
+
+https://copa24.pangenome.eu/
+
+Please feel free to forward this message to your colleagues and
+students.
+
+The school board
+
+*    Paola Bonizzoni (Univ. Milano-Bicocca)
+*    Gianluca Della Vedova (Univ. Milano-Bicocca)
+*    Alex Schoenhuth (Univ. Bielefeld, Germany)

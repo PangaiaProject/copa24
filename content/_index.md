@@ -25,7 +25,7 @@ will have to apply and the school directors will select the
 participants.
 ALPACA students and affiliated will have priority.
 
-[Applications are open](https://copa.lakecomoschool.org/application/).
+Applications are open.
 
 # Key dates
 

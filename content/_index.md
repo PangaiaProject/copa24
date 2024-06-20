@@ -29,8 +29,8 @@ ALPACA students and affiliated will have priority.
 
 # Key dates
 
-*  Application deadline: June 15
-*  Registration deadline: July 15
+*  Application deadline: July 15
+*  Registration deadline: July 27
 *  School dates: September 8-12, 2024
 
 # Sponsors

@@ -15,7 +15,7 @@ menu:
 <!-- {{< table >}}
 |             	| Sunday  	| Monday  	| Tuesday 	| Wednesday 	| Thursday 	|
 |-------------	|---------	|---------	|---------	|-----------	|----------	|
-| 9:00-10:30  	|         	| Lecture 	| Lecture 	| Lecture   	| Lecture  	|
+| 9:00-10:30  	|         	| Lecture 1 	| Lecture 	| Lecture   	| Lecture  	|
 | 10:30-11:00 	|         	|         	|         	|           	|          	|
 | 11:00-12:30 	|         	| Lecture 	| Lecture 	| Lecture   	| Lecture  	|
 | 12:30-14:00 	|         	|         	|         	|           	|          	|
@@ -28,6 +28,9 @@ menu:
 
 *  _Dan Gusfield_. TBD
 *  _Evan Eichler_. Long-read sequencing and pangenome perspective of structural variation and disease association. 
-*  _Iman Hajirasouliha_. Deep Learning for variant calling and tumor detection
+*  _Iman Hajirasouliha_. (1) Introduction to Structural Variants and short-read
+    SV methods, (2) Deep Learning methods for variant calling and tumor
+    detection, (3) Methods for Metagenome analysis using multiple sequencing
+    platforms. 
 *  _Layla Oesper_. Reconstructing and comparing tumor  phylogenies
 *  _Manuela Sironi_. Molecular evolution and host adaptation of human-infecting herpesviruses. Transposon domestication in mammals

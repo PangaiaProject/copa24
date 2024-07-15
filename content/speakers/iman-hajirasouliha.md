@@ -3,7 +3,7 @@ featured_image: ""
 summary_image: "/imgs/speakers/imanh.jpg"
 tags: []
 title: 'Iman Hajirasouliha'
-webpage: "https://gradschool.weill.cornell.edu/faculty/iman-hajirasouliha"
+webpage: "https://ihlab.med.cornell.edu/"
 ---
 
 Iman Hajirasouliha is Associate Professor of Computational Genomics at the

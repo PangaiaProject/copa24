@@ -26,13 +26,13 @@ menu:
 
 # Speakers and Topics:
 
-### Dan Gusfield
-1.  TBD
-
 ### Evan Eichler 
 1.  Long-read sequencing and pangenome perspective of structural variation and
     disease association. 
     
+### Dan Gusfield
+1.  TBD
+
 ### Iman Hajirasouliha 
 1.  Introduction to Structural Variants and short-SV methods
 2.  Deep Learning methods for variant calling and tumor detection

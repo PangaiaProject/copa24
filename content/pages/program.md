@@ -26,11 +26,21 @@ menu:
 
 # Speakers and Topics:
 
-*  _Dan Gusfield_. TBD
-*  _Evan Eichler_. Long-read sequencing and pangenome perspective of structural variation and disease association. 
-*  _Iman Hajirasouliha_. (1) Introduction to Structural Variants and short-read
-    SV methods, (2) Deep Learning methods for variant calling and tumor
-    detection, (3) Methods for Metagenome analysis using multiple sequencing
-    platforms. 
-*  _Layla Oesper_. Reconstructing and comparing tumor  phylogenies
-*  _Manuela Sironi_. Molecular evolution and host adaptation of human-infecting herpesviruses. Transposon domestication in mammals
+### Dan Gusfield
+1.  TBD
+
+### Evan Eichler 
+1.  Long-read sequencing and pangenome perspective of structural variation and
+    disease association. 
+    
+### Iman Hajirasouliha 
+1.  Introduction to Structural Variants and short-SV methods
+2.  Deep Learning methods for variant calling and tumor detection
+3.  Methods for Metagenome analysis using multiple sequencing platforms
+
+### Layla Oesper
+1.  Reconstructing and comparing tumor  phylogenies
+
+### Manuela Sironi
+1.  Molecular evolution and host adaptation of human-infecting herpesviruses.
+2.  Transposon domestication in mammals

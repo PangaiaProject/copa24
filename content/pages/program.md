@@ -29,9 +29,10 @@ menu:
 ### Evan Eichler 
 1.  Long-read sequencing and pangenome perspective of structural variation and
     disease association. 
+2.  Genome organization and challenges for pangenome construction
     
 ### Dan Gusfield
-1.  TBD
+*   Ancestral Recombination Graphs and Networks in Genomics and Evolution
 
 ### Iman Hajirasouliha 
 1.  Introduction to Structural Variants and short-SV methods
@@ -39,8 +40,8 @@ menu:
 3.  Methods for Metagenome analysis using multiple sequencing platforms
 
 ### Layla Oesper
-1.  Reconstructing and comparing tumor  phylogenies
+*   Reconstructing and comparing tumor  phylogenies
 
 ### Manuela Sironi
-1.  Molecular evolution and host adaptation of human-infecting herpesviruses.
-2.  Transposon domestication in mammals
+1.  Transposon domestication in mammals
+2.  Molecular evolution and host adaptation of human-infecting herpesviruses.

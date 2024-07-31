@@ -5,8 +5,8 @@ omit_header_text: true
 description: School schedule
 type: page
 menu:
-    main:
-        weight: 1
+main:
+weight: 1
 
 ---
 
@@ -40,7 +40,11 @@ menu:
 3.  Methods for Metagenome analysis using multiple sequencing platforms
 
 ### Layla Oesper
-*   Reconstructing and comparing tumor  phylogenies
+
+1.  Introduction to Tumor Phylogenetics
+2.  Methods for Reconstructing Tumor Phylogenies 
+3.  Comparison of Tumor Phylogenies 
+4.  Creating Consensus Across Inferred Tumor Phylogenies
 
 ### Manuela Sironi
 1.  Transposon domestication in mammals

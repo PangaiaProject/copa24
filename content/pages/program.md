@@ -5,8 +5,8 @@ omit_header_text: true
 description: School schedule
 type: page
 menu:
-main:
-weight: 1
+    main:
+        weight: 1
 
 ---
 

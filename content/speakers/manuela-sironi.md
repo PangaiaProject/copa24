@@ -18,7 +18,9 @@ My group applies computational approaches to identify positive selection signals
 to achieve molecular dating, and to perform phylogeographic analyses. We use
 wet-lab approaches to validate the predictions we generate in silico. I am a
 member of the ICTV Arenaviriadae Study Group and I serve as the Co-Chief Editor
-of Infection, Genetics and Evolution
+of Infection, Genetics and Evolution.
+
+I am currently Associate Professor of Genetics at the University of Milano-Bicocca.
 
 <!-- ### More information
 [Website]() -->
